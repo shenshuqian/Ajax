@@ -1,4 +1,4 @@
-# Ajax&jQuery中的Ajax常用方法总结
+# Ajax&jQuery中的Ajax常用方法总结经验
 
   **为了测试方便，我用了node搭建了一个简单的web服务器server.js[],默认端口3000,测试前请先启用[server.js]()文件**
 
